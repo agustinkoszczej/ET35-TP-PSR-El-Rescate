@@ -1,0 +1,2 @@
+Reemplazar la Clase DibujarPersonaje en la carpeta
+\El Rescate\src si los enemigos o el juego andan lento
